@@ -28,6 +28,8 @@ You also seem to be wearing an uncomfortable and restrictive jacket made of leat
 
 You are feeling very anxious at this point.
 
+This is because you do not like leather for ethical reasons.
+
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
 You are not sure who placed these objects near you or why.
@@ -75,6 +77,10 @@ I felt a sudden ease of mind.
 You pick up the fork and wrap it in rope to fashion a crappy wand.
 
 Pointing it at the door, eyes closed, "Alohomora..."
+
+Nothing seems to be happening.
+
+Sheepishly you look down on the crappy wand in your hand.
 
 Do you:
 
@@ -280,7 +286,7 @@ Do you:
 
 [Make a Marshmallow cake](https://www.youtube.com/watch?v=3l1SY3QREv4)
 
-[Realize that you are Batman and have the Utility Belt on you. Yeah!!!](https://youtu.be/YpIQQeL2ZYk?t=22s)
+[I'm batman](I'm-batman/batman.md)
 
 [You realize you are in NeverLand and you are
  never going come... so you sing the Tinker Bell song] (https://youtu.be/Sopngy6uucw)
@@ -322,3 +328,13 @@ Do you:
 [Smart Ape roasting a marshmellow](https://www.youtube.com/watch?v=_ZEBrHe4hVs)
 
 [Bruce Wayne is BATS !!](batman/batman.md)
+
+[Use your chance, master self-control](self-control/self-control.md)
+
+[Have a Pip-Boy](pipboy/pipboy.md)
+
+[Call upon one of your past lives as avatar](avatar/air.md)
+
+[Play some GTA5](play-gta5/play-gta5.md)
+
+[Ask a question on Quora?](ask-on-quora/ask-on-quora.md)
