@@ -94,3 +94,5 @@ click vaj tlhIngan Hol Dajatlh'a' [naDev click](klingon/start.md)
 
 Po flisni shqip, [shkoni ketu](albanian/hyrje.md)
 
+If you love pizza, [click here](pizzaheaven/ph.md)
+
